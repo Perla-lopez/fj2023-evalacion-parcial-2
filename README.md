@@ -1,3 +1,5 @@
 # EVALUACIÓN SEGUNDO PARCIAL
 
-creación del iis1
+Perla Beatriz Lopez Armenta
+
+creación del iss1
